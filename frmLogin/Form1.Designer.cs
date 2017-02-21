@@ -40,7 +40,7 @@
             this.btnLogin.Location = new System.Drawing.Point(147, 170);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(75, 23);
-            this.btnLogin.TabIndex = 0;
+            this.btnLogin.TabIndex = 3;
             this.btnLogin.Text = "登录";
             this.btnLogin.UseVisualStyleBackColor = true;
             // 
@@ -67,14 +67,14 @@
             this.txtPwd.Location = new System.Drawing.Point(122, 121);
             this.txtPwd.Name = "txtPwd";
             this.txtPwd.Size = new System.Drawing.Size(100, 21);
-            this.txtPwd.TabIndex = 3;
+            this.txtPwd.TabIndex = 2;
             // 
             // txtUserName
             // 
             this.txtUserName.Location = new System.Drawing.Point(122, 68);
             this.txtUserName.Name = "txtUserName";
             this.txtUserName.Size = new System.Drawing.Size(100, 21);
-            this.txtUserName.TabIndex = 4;
+            this.txtUserName.TabIndex = 1;
             // 
             // Form1
             // 
