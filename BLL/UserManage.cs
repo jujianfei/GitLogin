@@ -7,9 +7,10 @@ namespace BLL
 {
     public class UserManage
     {
-        //public bool JudgeUser(Entity.UserInfo user)
-        //{
-
-        //}
+        public bool JudgeUser(Entity.UserInfo user)
+        {
+            DAL.UserManage um = new DAL.UserManage();
+            return um.JudgeUser(user);
+        }
     }
 }
