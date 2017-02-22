@@ -1,0 +1,7 @@
+C:\Users\张婷\Desktop\GitLogin\DAL\bin\Debug\DAL.dll
+C:\Users\张婷\Desktop\GitLogin\DAL\bin\Debug\DAL.pdb
+C:\Users\张婷\Desktop\GitLogin\DAL\bin\Debug\Entity.dll
+C:\Users\张婷\Desktop\GitLogin\DAL\bin\Debug\Entity.pdb
+C:\Users\张婷\Desktop\GitLogin\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\张婷\Desktop\GitLogin\DAL\obj\Debug\DAL.dll
+C:\Users\张婷\Desktop\GitLogin\DAL\obj\Debug\DAL.pdb

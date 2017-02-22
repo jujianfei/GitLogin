@@ -1,0 +1,14 @@
+C:\Users\张婷\Desktop\GitLogin\frmLogin\bin\Debug\frmLogin.exe
+C:\Users\张婷\Desktop\GitLogin\frmLogin\bin\Debug\frmLogin.pdb
+C:\Users\张婷\Desktop\GitLogin\frmLogin\bin\Debug\BLL.dll
+C:\Users\张婷\Desktop\GitLogin\frmLogin\bin\Debug\Entity.dll
+C:\Users\张婷\Desktop\GitLogin\frmLogin\bin\Debug\DAL.dll
+C:\Users\张婷\Desktop\GitLogin\frmLogin\bin\Debug\BLL.pdb
+C:\Users\张婷\Desktop\GitLogin\frmLogin\bin\Debug\Entity.pdb
+C:\Users\张婷\Desktop\GitLogin\frmLogin\bin\Debug\DAL.pdb
+C:\Users\张婷\Desktop\GitLogin\frmLogin\obj\Debug\frmLogin.csprojResolveAssemblyReference.cache
+C:\Users\张婷\Desktop\GitLogin\frmLogin\obj\Debug\frmLogin.Form1.resources
+C:\Users\张婷\Desktop\GitLogin\frmLogin\obj\Debug\frmLogin.Properties.Resources.resources
+C:\Users\张婷\Desktop\GitLogin\frmLogin\obj\Debug\frmLogin.csproj.GenerateResource.Cache
+C:\Users\张婷\Desktop\GitLogin\frmLogin\obj\Debug\frmLogin.exe
+C:\Users\张婷\Desktop\GitLogin\frmLogin\obj\Debug\frmLogin.pdb

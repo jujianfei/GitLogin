@@ -19,6 +19,7 @@ namespace frmLogin
         private void btnLogin_Click(object sender, EventArgs e)
         {
 
+
             Entity.UserInfo user = new Entity.UserInfo();
             user.UserName = txtUserName.Text.Trim();
             user.Pwd = txtPwd.Text.Trim();

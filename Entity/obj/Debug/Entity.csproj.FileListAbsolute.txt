@@ -1,0 +1,5 @@
+C:\Users\张婷\Desktop\GitLogin\Entity\bin\Debug\Entity.dll
+C:\Users\张婷\Desktop\GitLogin\Entity\bin\Debug\Entity.pdb
+C:\Users\张婷\Desktop\GitLogin\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\张婷\Desktop\GitLogin\Entity\obj\Debug\Entity.dll
+C:\Users\张婷\Desktop\GitLogin\Entity\obj\Debug\Entity.pdb
