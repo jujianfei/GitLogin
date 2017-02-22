@@ -7,9 +7,9 @@ namespace DAL
 {
     public class UserManage
     {
-        //public bool JudgeUser(Entity.UserInfo user)
-        //{ 
-            
-        //}
+        public bool JudgeUser(Entity.UserInfo user)
+        {
+            return true;
+        }
     }
 }
